@@ -59,7 +59,7 @@ Connect again to your server after reboot
 ```bash
   sudo -i
   git clone https://github.com/Bloom-Genesis/Core-Blockchain.git
-  cd core-blockchain
+  cd Core-Blockchain
   ./node-setup --validator 1
 ```
 After you run node-setup, follow the on-screen instructions carefully and you'll get confirmation that the node was successfully installed on your system.
